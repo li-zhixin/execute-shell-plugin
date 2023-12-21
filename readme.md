@@ -1,4 +1,6 @@
 # execute-shell-plugin
+[![NPM version](https://badge.fury.io/js/execute-shell-plugin.svg)](https://npmjs.org/package/execute-shell-plugin)
+[![Node.js CI](https://github.com/li-zhixin/execute-shell-plugin/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/li-zhixin/execute-shell-plugin/actions/workflows/build.yml)
 
 ### Intro
 `execute-shell-plugin` is appium 2.0 plugin, for executing shell. 
