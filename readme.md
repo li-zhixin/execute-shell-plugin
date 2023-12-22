@@ -29,7 +29,7 @@ POST local/execute_shell
 
 |          Name | Required |  Type   | Description             |
 | -------------:|:--------:|:-------:|-------------------------|
-|     `product` | required | string  | The command to execute. |
+|     `shell` | required | string  | The command to execute. |
 
 **Response**
 
