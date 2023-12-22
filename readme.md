@@ -19,7 +19,7 @@ To install plugin
 
 Start appium server with plugin
 
-```appium --use-plugins=execute-shell-plugin```
+```appium --use-plugins=execute-shell```
 
 ### endpoint
 
